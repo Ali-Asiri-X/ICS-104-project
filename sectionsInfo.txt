@@ -1,0 +1,8 @@
+24042,Introduction to Programming in Python and C,1,ICS,20,UT,0900-0950
+24044,Introduction to Programming in Python and C,2,ICS,29,UT,1000-1050
+24113,Object-Oriented Programming,1,ICS,23,MW,0930-1045
+24115,Object-Oriented Programming,3,ICS,27,MW,1330-1445
+24027,Introduction to Programming in Python and C,4,ICS,0,MW,1000-1050
+24264,Digital Logic Design,2,COE,23,MW,1000-1050
+21552,Computer Organization,1,COE,28,T,1300-1700
+	
